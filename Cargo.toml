@@ -1,0 +1,9 @@
+[package]
+name = "game-of-life"
+version = "0.1.0"
+authors = ["Michael Krolikowski <mkroli@yahoo.de>"]
+
+[dependencies]
+rustty = "0.1.12"
+rand = "0.3.14"
+clap = "2.14.0"
